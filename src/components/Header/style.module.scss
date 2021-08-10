@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #e3caff;
+}
+
+.search input{
+  margin: 20px;
+  width: 800px;
+}
+
+.select {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.categories select{
+  margin-left: 10px;
+  margin-right: 50px;
+}
+
+.sorting select{
+  margin-left: 10px;
+}
